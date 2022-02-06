@@ -672,7 +672,7 @@ ScreenGui.yourbutt.Text = "Sakpot"
 ScreenGui.yourbutt.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.yourbutt.TextSize = 30.000
 ScreenGui.yourbutt.MouseButton1Down:connect(function()
-	--START HERE
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/YvDev4500/Sakpot/main/README.md", true))()
 end)
 
 ScreenGui.UICorner_3.Parent = ScreenGui.yourbutt
@@ -4454,6 +4454,8 @@ ScreenGui.Hub.Font = Enum.Font.SourceSans
 ScreenGui.Hub.Text = "Hub"
 ScreenGui.Hub.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Hub.TextSize = 27.000
+ScreenGui.Hub.Active = true
+ScreenGui.Hub.Draggable = true
 
 ScreenGui.UICorner_312.Parent = ScreenGui.Hub
 
