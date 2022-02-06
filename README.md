@@ -1,4 +1,4 @@
--- AllHub
+-- AllHub 
 
 local ScreenGui = {
 	ScreenGui = Instance.new("ScreenGui"),
