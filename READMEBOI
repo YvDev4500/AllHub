@@ -755,10 +755,18 @@ ScreenGui.Nil.Parent = ScreenGui.ScrollingFrame
 ScreenGui.Nil.BackgroundColor3 = Color3.fromRGB(0, 255, 127)
 ScreenGui.Nil.Size = UDim2.new(0, 340, 0, 50)
 ScreenGui.Nil.Font = Enum.Font.SourceSans
-ScreenGui.Nil.Text = "-"
+ScreenGui.Nil.Text = "r6 Blockhead"
 ScreenGui.Nil.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Nil.TextSize = 30.000
 ScreenGui.Nil.TextWrapped = true
+ScreenGui.Nil.MouseButton1Down:connect(function()
+	game.Players.LocalPlayer.Character.Head.Mesh:Remove()
+for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+if (v:IsA("Accessory")) then
+v.Parent = workspace
+end
+end
+end)
 
 ScreenGui.UICorner_10.Parent = ScreenGui.Nil
 
@@ -772,6 +780,9 @@ ScreenGui.Nil_2.Text = "Nil"
 ScreenGui.Nil_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Nil_2.TextSize = 30.000
 ScreenGui.Nil_2.TextWrapped = true
+ScreenGui.Nil_2.MouseButton1Down:connect(function()
+	
+end)
 
 ScreenGui.UICorner_11.Parent = ScreenGui.Nil_2
 
