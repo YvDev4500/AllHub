@@ -776,12 +776,12 @@ ScreenGui.Nil_2.BackgroundColor3 = Color3.fromRGB(0, 255, 127)
 ScreenGui.Nil_2.Position = UDim2.new(0, 0, 0.213675216, 0)
 ScreenGui.Nil_2.Size = UDim2.new(0, 340, 0, 50)
 ScreenGui.Nil_2.Font = Enum.Font.SourceSans
-ScreenGui.Nil_2.Text = "Nil"
+ScreenGui.Nil_2.Text = "r6 HeadLess"
 ScreenGui.Nil_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Nil_2.TextSize = 30.000
 ScreenGui.Nil_2.TextWrapped = true
 ScreenGui.Nil_2.MouseButton1Down:connect(function()
-	
+	loadstring(game:HttpGet("https://pastebin.com/raw/Ba8y2pni", true))()
 end)
 
 ScreenGui.UICorner_11.Parent = ScreenGui.Nil_2
@@ -791,10 +791,13 @@ ScreenGui.Nil_3.Parent = ScreenGui.ScrollingFrame
 ScreenGui.Nil_3.BackgroundColor3 = Color3.fromRGB(0, 255, 127)
 ScreenGui.Nil_3.Size = UDim2.new(0, 340, 0, 50)
 ScreenGui.Nil_3.Font = Enum.Font.SourceSans
-ScreenGui.Nil_3.Text = "Nil"
+ScreenGui.Nil_3.Text = "r15 HeadLess"
 ScreenGui.Nil_3.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Nil_3.TextSize = 30.000
 ScreenGui.Nil_3.TextWrapped = true
+ScreenGui.Nil_3.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/Wir38nKB", true))()
+end)
 
 ScreenGui.UICorner_12.Parent = ScreenGui.Nil_3
 
@@ -803,10 +806,13 @@ ScreenGui.Nil_4.Parent = ScreenGui.ScrollingFrame
 ScreenGui.Nil_4.BackgroundColor3 = Color3.fromRGB(0, 255, 127)
 ScreenGui.Nil_4.Size = UDim2.new(0, 340, 0, 50)
 ScreenGui.Nil_4.Font = Enum.Font.SourceSans
-ScreenGui.Nil_4.Text = "Nil"
+ScreenGui.Nil_4.Text = "ESP"
 ScreenGui.Nil_4.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Nil_4.TextSize = 30.000
 ScreenGui.Nil_4.TextWrapped = true
+ScreenGui.Nil_4.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/Fkc7BzCC", true))()
+end)
 
 ScreenGui.UICorner_13.Parent = ScreenGui.Nil_4
 
@@ -815,10 +821,13 @@ ScreenGui.Nil_5.Parent = ScreenGui.ScrollingFrame
 ScreenGui.Nil_5.BackgroundColor3 = Color3.fromRGB(0, 255, 127)
 ScreenGui.Nil_5.Size = UDim2.new(0, 340, 0, 50)
 ScreenGui.Nil_5.Font = Enum.Font.SourceSans
-ScreenGui.Nil_5.Text = "Nil"
+ScreenGui.Nil_5.Text = "r6 Jason Animation"
 ScreenGui.Nil_5.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Nil_5.TextSize = 30.000
 ScreenGui.Nil_5.TextWrapped = true
+ScreenGui.Nil_5.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/qE8YNeVh", true))()
+end)
 
 ScreenGui.UICorner_14.Parent = ScreenGui.Nil_5
 
@@ -827,10 +836,13 @@ ScreenGui.Nil_6.Parent = ScreenGui.ScrollingFrame
 ScreenGui.Nil_6.BackgroundColor3 = Color3.fromRGB(0, 255, 127)
 ScreenGui.Nil_6.Size = UDim2.new(0, 340, 0, 50)
 ScreenGui.Nil_6.Font = Enum.Font.SourceSans
-ScreenGui.Nil_6.Text = "Nil"
+ScreenGui.Nil_6.Text = "r6 Troll Animation"
 ScreenGui.Nil_6.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Nil_6.TextSize = 30.000
 ScreenGui.Nil_6.TextWrapped = true
+ScreenGui.Nil_6.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/DvE0fV2F", true))()
+end)
 
 ScreenGui.UICorner_15.Parent = ScreenGui.Nil_6
 
@@ -839,10 +851,13 @@ ScreenGui.Nil_7.Parent = ScreenGui.ScrollingFrame
 ScreenGui.Nil_7.BackgroundColor3 = Color3.fromRGB(0, 255, 127)
 ScreenGui.Nil_7.Size = UDim2.new(0, 340, 0, 50)
 ScreenGui.Nil_7.Font = Enum.Font.SourceSans
-ScreenGui.Nil_7.Text = "Nil"
+ScreenGui.Nil_7.Text = "r6 Pog"
 ScreenGui.Nil_7.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Nil_7.TextSize = 30.000
 ScreenGui.Nil_7.TextWrapped = true
+ScreenGui.Nil_7.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/NNHAA6iM", true))()
+end)
 
 ScreenGui.UICorner_16.Parent = ScreenGui.Nil_7
 
@@ -851,10 +866,13 @@ ScreenGui.Nil_8.Parent = ScreenGui.ScrollingFrame
 ScreenGui.Nil_8.BackgroundColor3 = Color3.fromRGB(0, 255, 127)
 ScreenGui.Nil_8.Size = UDim2.new(0, 340, 0, 50)
 ScreenGui.Nil_8.Font = Enum.Font.SourceSans
-ScreenGui.Nil_8.Text = "Nil"
+ScreenGui.Nil_8.Text = "r15 Animation"
 ScreenGui.Nil_8.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Nil_8.TextSize = 30.000
 ScreenGui.Nil_8.TextWrapped = true
+ScreenGui.Nil_8.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://gitlab.com/Tsuniox/lua-stuff/-/raw/master/R15GUI.lua"))()
+end)
 
 ScreenGui.UICorner_17.Parent = ScreenGui.Nil_8
 
@@ -867,6 +885,9 @@ ScreenGui.Nil_9.Text = "Nil"
 ScreenGui.Nil_9.TextColor3 = Color3.fromRGB(0, 0, 0)
 ScreenGui.Nil_9.TextSize = 30.000
 ScreenGui.Nil_9.TextWrapped = true
+ScreenGui.Nil_9.MouseButton1Down:connect(function()
+	-----------------------------------------------------------------START HERE
+end)
 
 ScreenGui.UICorner_18.Parent = ScreenGui.Nil_9
 
